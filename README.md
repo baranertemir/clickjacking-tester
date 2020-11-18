@@ -1,2 +1,3 @@
-# clickjacking-tester
-Clickjacking Tester
+# Clickjacking Tester
+
+A simple script for testing Clickjacking.
