@@ -3,14 +3,14 @@
 """
 Created on Sat Nov 14 12:27:36 2020
 
-@author: ayca22
+@author: A.Baran Ertemir
 """
 
 import requests
 from bs4 import BeautifulSoup
 
 """
-CLICKJACKING TESTER
+CLICKJACKING TESTER - Aydin Baran Ertemir
 """
 
 def checker2(data):
